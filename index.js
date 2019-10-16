@@ -4,5 +4,5 @@ const prepend = ["Milo", "Otis", "Garfield"];
 const removeLast = ["Milo", "Otis", "Garfield"];
 const removeFirst = ["Milo", "Otis", "Garfield"];
 
-pets.push('Odie');
+append.push('Odie');
 pets.unshift('Los Angeles');
